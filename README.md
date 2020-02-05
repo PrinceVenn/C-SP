@@ -6,7 +6,7 @@ https://vimeo.com/40904471#
 
 Data: The microphone in the painting listens for the sound of wind blowing, 
 
-Render:The color of the flowers/petals/seeds, The movement of the LEDs
+Render: The color of the flowers/petals/seeds, The movement of the LEDs
 
 Simulation: ????
 
